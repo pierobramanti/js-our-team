@@ -15,4 +15,3 @@ Angela Lopez	- Social Media Manager - angela-lopez-social-media-manager.jpg
 Scott Estrada	- Developer - scott-estrada-developer.jpg
 Barbara Ramos - Graphic Designer - barbara-ramos-graphic-designer.jpg
 E ricordiamoci che console.log() è nostro amico!
-Buon lavoro!
